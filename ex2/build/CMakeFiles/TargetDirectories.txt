@@ -1,0 +1,3 @@
+/mnt/c/Users/Micha/skola/par/ex2/build/CMakeFiles/planner.dir
+/mnt/c/Users/Micha/skola/par/ex2/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Micha/skola/par/ex2/build/CMakeFiles/rebuild_cache.dir
